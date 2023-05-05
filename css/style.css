@@ -164,7 +164,7 @@ img {
 
 .callback-form .btn {
   padding: 12px 0;
-  margin: 20px;
+  margin: 0 auto;
 }
 
 /*Footer*/
@@ -172,7 +172,7 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 200px;
+  padding: 30px;
   text-align: center;
 }
 
